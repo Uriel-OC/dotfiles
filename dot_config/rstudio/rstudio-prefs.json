@@ -1,0 +1,82 @@
+{
+    "restore_source_documents": false,
+    "check_for_updates": false,
+    "save_workspace": "never",
+    "load_workspace": false,
+    "initial_working_directory": "~",
+    "restore_last_project": false,
+    "insert_native_pipe_operator": true,
+    "continue_comments_on_newline": true,
+    "highlight_r_function_calls": true,
+    "rainbow_parentheses": true,
+    "default_encoding": "UTF-8",
+    "editor_keybindings": "vim",
+    "syntax_color_console": true,
+    "editor_theme": "Material Ocean",
+    "posix_terminal_shell": "zsh",
+    "panes": {
+        "quadrants": [
+            "Source",
+            "TabSet1",
+            "Console",
+            "TabSet2"
+        ],
+        "tabSet1": [
+            "History",
+            "Files",
+            "Connections",
+            "Build",
+            "VCS",
+            "Presentation"
+        ],
+        "tabSet2": [
+            "Environment",
+            "Plots",
+            "Packages",
+            "Help",
+            "Viewer",
+            "Presentations"
+        ],
+        "hiddenTabSet": [
+            "Tutorial"
+        ],
+        "console_left_on_top": false,
+        "console_right_on_top": true,
+        "additional_source_columns": 0
+    },
+    "save_files_before_build": true,
+    "cran_mirror": {
+        "name": "Mexico (Mexico City) [https]",
+        "host": "Instituto Tecnologico Autonomo de Mexico",
+        "url": "https://cran.itam.mx/",
+        "country": "mx",
+        "ok": 1,
+        "secondary": ""
+    },
+    "pdf_previewer": "system",
+    "spelling_dictionary_language": "es_ES",
+    "jobs_tab_visibility": "shown",
+    "font_size_points": 11,
+    "rmd_auto_date": true,
+    "document_author": "Andrés Uriel Ortiz Covarrubias",
+    "source_with_echo": true,
+    "show_terminal_tab": false,
+    "default_latex_program": "LuaLaTeX",
+    "latex_shell_escape": true,
+    "remove_history_duplicates": true,
+    "copilot_enabled": true,
+    "copilot_completions_trigger": "manual",
+    "text_rendering": "geometricPrecision",
+    "python_type": "system",
+    "python_version": "3.9.6",
+    "python_path": "/usr/bin/python3",
+    "check_arguments_to_r_function_calls": true,
+    "check_unexpected_assignment_in_function_call": true,
+    "warn_if_no_such_variable_in_scope": true,
+    "warn_variable_defined_but_not_used": true,
+    "style_diagnostics": true,
+    "code_completion_other": "manual",
+    "editor_line_height": 120,
+    "cpp_template": "cpp11",
+    "latex_preview_on_cursor_idle": "never"
+}

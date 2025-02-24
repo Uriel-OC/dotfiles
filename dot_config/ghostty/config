@@ -1,0 +1,21 @@
+# Font
+font-family = Hack
+font-family = Symbols Nerd Font Mono
+font-size = 12
+
+# Colorscheme
+theme = catppuccin-mocha
+
+# Appereance
+window-padding-balance = true
+window-colorspace = display-p3
+
+# MacOS
+macos-option-as-alt = left
+macos-icon = custom-style
+macos-icon-frame = plastic
+macos-icon-ghost-color = cba6f7
+macos-icon-screen-color = 1e1e2e
+
+# Keybinds
+keybind = global:super+shift+space=toggle_quick_terminal

@@ -1,0 +1,13 @@
+export EDITOR=nvim
+
+typeset -U path PATH
+path=("/opt/homebrew/bin" "/opt/homebrew/sbin/" "/usr/bin" "/usr/sbin" "/bin" "/sbin")
+export PATH
+
+export JULIA_NUM_THREADS=auto
+
+export JUPYTER_CONFIG_DIR="$HOME/.config/jupyter"
+
+export NODE_EXTRA_CA_CERTS="/private/etc/ssl/cert.pem"
+
+export GPG_TTY="$(tty)"
